@@ -1,6 +1,7 @@
 #########--------- IMPORTS ---------#########
 from bs4 import BeautifulSoup
 import requests
+import csv
 
 
 #########--------- FUNCTIONS ---------#########
@@ -17,9 +18,18 @@ def count_html_elements():
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    html_elements_count = soup.find_all('code')
+    # html_elements_count = soup.find_all('code')
 
-    print(len(html_elements_count))  # 578
+    # print(len(html_elements_count))  # 578
+
+    all_html_elements_count = soup.find_all('td')
+
+    with open('result.csv', 'w', newline='') as csvfile:
+        result_writer = csv.writer(csvfile, delimiter=' ',
+                                   quotechar='|', quoting=csv.QUOTE_MINIMAL)
+
+        for html_element in all_html_elements_count:
+            result_writer.writerow(html_element)
 
 
 #########--------- DRIVER CODE ---------#########
