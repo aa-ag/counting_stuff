@@ -11,3 +11,4 @@ This script was prepared as part of [this](https://medium.com/@aa-ag) Medium art
 - `Python`
 - `conda create -n <env>`
 - `conda install -c anaconda beautifulsoup4`
+- `conda install requests`
