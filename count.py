@@ -17,7 +17,9 @@ def count_html_elements():
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    print(soup)
+    html_elements_count = soup.find_all('code')
+
+    print(len(html_elements_count))  # 578
 
 
 #########--------- DRIVER CODE ---------#########
