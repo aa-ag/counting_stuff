@@ -18,11 +18,9 @@ def count_html_elements():
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    # html_elements_count = soup.find_all('code')
+    all_html_elements_count = set(soup.find_all('code'))
 
-    # print(len(html_elements_count))  # 578
-
-    all_html_elements_count = soup.find_all('td')
+    print(len(html_elements_count))  # 252
 
     with open('result.csv', 'w', newline='') as csvfile:
         result_writer = csv.writer(csvfile, delimiter=' ',
