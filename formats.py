@@ -5,7 +5,7 @@ import csv
 
 
 #########--------- FUNCTIONS ---------#########
-def count_html_elements():
+def count_formats_elements():
     '''
       using `requests`, fetch url provided
       then create BeautifulSoup object with
@@ -13,24 +13,26 @@ def count_html_elements():
       and finally, create csv with entire list
     '''
 
-    url = 'https://developer.mozilla.org/en-US/docs/Web/HTML/Element'
+    url = 'https://www.wikiwand.com/en/List_of_file_formats'
 
     page = requests.get(url)
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    all_html_elements_count = set(soup.find_all('code'))
+    all_formats = soup.find_all('top')
 
-    print(len(html_elements_count))  # 252
+    print(all_formats)
 
-    with open('result.csv', 'w', newline='') as csvfile:
-        result_writer = csv.writer(csvfile, delimiter=' ',
-                                   quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    # print(len(all_formats_count))
 
-        for html_element in all_html_elements_count:
-            result_writer.writerow(html_element)
+    # with open('formats_result.csv', 'w', newline='') as csvfile:
+    #     result_writer = csv.writer(csvfile, delimiter=' ',
+    #                                quotechar='|', quoting=csv.QUOTE_MINIMAL)
+
+    #     for html_element in all_html_elements_count:
+    #         result_writer.writerow(html_element)
 
 
 #########--------- DRIVER CODE ---------#########
 if __name__ == "__main__":
-    count_html_elements()
+    count_formats_elements()
