@@ -13,24 +13,16 @@ def count_formats_elements():
       and finally, create csv with entire list
     '''
 
-    url = 'https://www.wikiwand.com/en/List_of_file_formats'
+    url = 'https://en.wikipedia.org/wiki/List_of_file_formats'
 
     page = requests.get(url)
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    all_formats = soup.find_all('top')
+    f = open('formats.txt', 'w')
 
-    print(all_formats)
-
-    # print(len(all_formats_count))
-
-    # with open('formats_result.csv', 'w', newline='') as csvfile:
-    #     result_writer = csv.writer(csvfile, delimiter=' ',
-    #                                quotechar='|', quoting=csv.QUOTE_MINIMAL)
-
-    #     for html_element in all_html_elements_count:
-    #         result_writer.writerow(html_element)
+    for li in soup.find_all('li'):
+        f.write(''.join(li.findAll(text=True)))
 
 
 #########--------- DRIVER CODE ---------#########
