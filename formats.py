@@ -21,8 +21,10 @@ def count_formats_elements():
 
     f = open('formats.txt', 'w')
 
-    for li in soup.find_all('li'):
-        f.write(''.join(li.findAll(text=True)))
+    ul = soup.find_all('ul')
+
+    for ul in soup.find_all('ul'):
+        f.write(''.join(ul.findAll(text=True)))
 
 
 #########--------- DRIVER CODE ---------#########
