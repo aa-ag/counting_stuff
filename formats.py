@@ -1,7 +1,6 @@
 #########--------- IMPORTS ---------#########
 from bs4 import BeautifulSoup
 import requests
-import csv
 
 
 #########--------- FUNCTIONS ---------#########
@@ -10,7 +9,7 @@ def count_formats_elements():
       using `requests`, fetch url provided
       then create BeautifulSoup object with
       parsed data, count lenth of list created by `find_all()`
-      and finally, create csv with entire list
+      and finally, create txt with entire list
     '''
 
     url = 'https://en.wikipedia.org/wiki/List_of_file_formats'
