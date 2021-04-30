@@ -4,7 +4,7 @@ import requests
 
 
 #########--------- FUNCTIONS ---------#########
-def count_formats_elements():
+def count_formats():
     '''
       using `requests`, fetch url provided
       then create BeautifulSoup object with
@@ -26,4 +26,4 @@ def count_formats_elements():
 
 #########--------- DRIVER CODE ---------#########
 if __name__ == "__main__":
-    count_formats_elements()
+    count_formats()
