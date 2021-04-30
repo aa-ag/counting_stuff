@@ -18,8 +18,6 @@ def count_formats_elements():
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    print(len(soup.find_all()))  # 5326
-
     f = open('formats.txt', 'w')
 
     for ul in soup.find_all('ul'):
