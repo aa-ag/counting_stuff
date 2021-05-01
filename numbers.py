@@ -18,17 +18,20 @@ def numbers_types():
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    inlinks = soup.find_all("p").find("a")
+    tags = {tag.name for tag in soup.find_all()}
 
-    for inlink in inlinks:
-        print(inlink.string)
-
-    # with open('names.csv', 'w', newline='') as csvfile:
-    #     fieldnames = ['#', 'number', 'description']
-    #     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    #     writer.writeheader()
+    print(tags)
 
 
 #########--------- DRIVER CODE ---------#########
 if __name__ == "__main__":
     numbers_types()
+    '''
+     {'ol', 'td', 'h2', 'mstyle', 'link', 'nav', 
+     'a', 'table', 'body', 'br', 'footer', 'mi', 
+     'sup', 'tbody', 'i', 'noscript', 'span', 'div', 
+     'li', 'h3', 'h1', 'script', 'abbr', 'img', 'th', 
+     'tr', 'form', 'label', 'semantics', 'b', 'meta', 
+     'head', 'mrow', 'annotation', 'ul', 'math', 'p', 
+     'style', 'html', 'cite', 'title', 'input'}
+    '''
