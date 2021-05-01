@@ -18,9 +18,11 @@ def count_formats():
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
+    uls = soup.find_all('ul')[17:-31]
+
     f = open('formats.txt', 'w')
 
-    for ul in soup.find_all('ul'):
+    for ul in uls:
         f.write(''.join(ul.findAll(text=True)))
 
 
