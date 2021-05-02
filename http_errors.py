@@ -21,16 +21,16 @@ def get_http_errors():
     soup = BeautifulSoup(page.content, 'html.parser')
 
     # grab titles and descriptions to create dict with both
-    all_http_errors_titles = [i.text.lstrip(' ') for i in soup.find_all("dt")]
+    http_errors_titles = [i.text.lstrip(' ') for i in soup.find_all("dt")]
 
     # print(len(all_http_errors_titles)) # 97
 
-    # all_http_errors_decriptions = [j.text for j in soup.find_all("dd")]
+    http_errors_descriptions = [j.find_next(
+        'dd').text for j in soup.find_all("dt")]
 
-    f = open('http_errors.txt', 'w')
+    all_http_errors = dict(zip(http_errors_titles, http_errors_descriptions))
 
-    for error in all_http_errors_titles:
-        f.write(error + '\n')
+    print(all_http_errors)
 
 
 #########--------- DRIVER CODE ---------#########
