@@ -19,18 +19,17 @@ def list_http_errors():
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    all_http_errors = [i.text for i in soup.find_all("dt")]
+    all_http_errors_titles = [i.text.lstrip(' ') for i in soup.find_all("dt")]
 
-    # print(all_http_errors)
+    all_http_errors_descriptions = [j.text for j in soup.find_all("dd")]
 
-    # print(len(all_http_errors))  # 97
+    all_http_errors = dict()
 
-    with open('http_errors.csv', 'w', newline='') as csvfile:
-        result_writer = csv.writer(csvfile, delimiter=' ',
-                                   quotechar=' ', quoting=csv.QUOTE_MINIMAL)
+    for x in all_http_errors_titles:
+        for y in all_http_errors_descriptions:
+            all_http_errors[x] = y
 
-        for error in all_http_errors:
-            result_writer.writerow([error])
+    print(all_http_errors)
 
 
 #########--------- DRIVER CODE ---------#########
