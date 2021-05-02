@@ -1,29 +1,30 @@
 #########--------- IMPORTS ---------#########
 from bs4 import BeautifulSoup
 import requests
-import csv
-import re
 
 
 #########--------- FUNCTIONS ---------#########
-def numbers_types():
+def list_http_errors():
     '''
       using `requests`, fetch url provided
       then create BeautifulSoup object with
       parsed data, count lenth of list created by `find_all()`
-      grabbing class and finally, create txt with entire list
+      and finally, create csv with entire list
     '''
-    url = 'https://en.wikipedia.org/wiki/List_of_types_of_numbers'
+
+    url = 'https://en.wikipedia.org/wiki/List_of_HTTP_status_codes'
 
     page = requests.get(url)
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    numbers = {number for number in soup.find_all('p')}
+    all_http_errors = [i.text for i in soup.find_all("dt")]
 
-    print(numbers)
+    print(all_http_errors)
+
+    print(len(all_http_errors))
 
 
 #########--------- DRIVER CODE ---------#########
 if __name__ == "__main__":
-    numbers_types()
+    list_http_errors()
