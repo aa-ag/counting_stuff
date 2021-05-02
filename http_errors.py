@@ -1,6 +1,7 @@
 #########--------- IMPORTS ---------#########
 from bs4 import BeautifulSoup
 import requests
+import csv
 
 
 #########--------- FUNCTIONS ---------#########
@@ -20,9 +21,16 @@ def list_http_errors():
 
     all_http_errors = [i.text for i in soup.find_all("dt")]
 
-    print(all_http_errors)
+    # print(all_http_errors)
 
-    print(len(all_http_errors))
+    # print(len(all_http_errors))  # 97
+
+    with open('http_errors.csv', 'w', newline='') as csvfile:
+        result_writer = csv.writer(csvfile, delimiter=' ',
+                                   quotechar=' ', quoting=csv.QUOTE_MINIMAL)
+
+        for error in all_http_errors:
+            result_writer.writerow([error])
 
 
 #########--------- DRIVER CODE ---------#########
