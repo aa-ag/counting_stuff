@@ -19,7 +19,7 @@ def numbers_types():
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    numbers = {number for number in soup.find_all('p')}
+    numbers = {number.text for number in soup.find_all('p')}
 
     print(numbers)
 
