@@ -11,9 +11,10 @@ def count_programming_languages():
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    lis = [li for li in soup.find_all("li")]
+    lis = [li.find_next(
+        'a').text for li in soup.find_all("li")]
 
-    print(lis)
+    print(lis[35:-155])
 
 
 #########--------- DRIVER CODE ---------#########
