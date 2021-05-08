@@ -15,7 +15,12 @@ def count_programming_languages():
         'a').text for li in soup.find_all("li")]
 
     all_programming_languages = lis[35:-155]
-    print(len(all_programming_languages))  # 686
+    # print(len(all_programming_languages))  # 686
+
+    f = open('languages.txt', 'w')
+
+    for language in all_programming_languages:
+        f.write(language)
 
 
 #########--------- DRIVER CODE ---------#########
