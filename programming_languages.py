@@ -19,8 +19,8 @@ def count_programming_languages():
 
     f = open('languages.txt', 'w')
 
-    for language in all_programming_languages:
-        f.write(f"{language}\n")
+    for i, language in enumerate(all_programming_languages):
+        f.write(f"{i + 1} - {language}\n")
 
 
 #########--------- DRIVER CODE ---------#########

@@ -1,686 +1,686 @@
-A.NET (A#/A sharp)
-A-0 System
-A+ (A (plus)
-ABAP
-ABC
-ABC ALGOL
-ACC
-Accent (Rational Synergy)
-Ace DASL (Distributed Application Specification Language)
-Action!
-ActionScript
-Actor
-Ada
-Adenine (Haystack)
-AdvPL
-Agda
-Agilent VEE (Keysight VEE)
-Agora
-AIMMS
-Aldor
-Alef
-ALF
-ALGOL 58
-ALGOL 60
-ALGOL 68
-ALGOL W
-Alice (Alice ML)
-Alma-0
-AmbientTalk
-Amiga E
-AMOS (AMOS BASIC)
-AMPL
-AngelScript
-Apache Pig latin
-Apex (Salesforce.com, Inc)
-APL
-App Inventor for Android's visual block language (MIT App Inventor)
-AppleScript
-APT
-Arc
-ARexx
-Argus
-Assembly language (ASM)
-AutoIt
-AutoLISP / Visual LISP
-Averest
-AWK
-Axum
-B
-Babbage
-Ballerina
-Bash
-BASIC
-Batch file (Windows/MS-DOS)
-bc (basic calculator)
-BCPL
-BeanShell
-Bertrand
-BETA
-BLISS
-Blockly
-BlooP
-Boo
-Boomerang
-Bosque
-C
-C--
-C++
-C*
-C#
-C/AL
-Caché ObjectScript
-C Shell (csh)
-Caml
-Cayenne (Lennart Augustsson)
-CDuce
-Cecil
-Cesil (Computer Education in Schools Instruction Language)
-Céu
-Ceylon
-CFEngine
-Cg (High-Level Shader/Shading Language [HLSL])
-Ch
-Chapel (Cascade High Productivity Language)
-Charm
-CHILL
-CHIP-8
-ChucK
-Cilk (also Cilk++ and Cilk plus)
-Control Language
-Claire
-Clarion
-Clean
-Clipper
-CLIPS
-CLIST
-Clojure
-CLU
-CMS-2
-COBOL
-CobolScript
-Cobra
-CoffeeScript
-ColdFusion
-COMAL
-Combined Programming Language
-COMIT
-Common Intermediate Language
-Common Lisp
-COMPASS
-Component Pascal
-Constraint Handling Rules
-COMTRAN
-Cool
-Coq
-Coral 66
-CorVision
-COWSEL
-CPL
-Cryptol
-Crystal
-Csound
-Cuneiform
-Curl
-Curry
-Cybil
-Cyclone
-Cypher Query Language
-Cython
-CEEMAC
-D
-Dart
-Darwin
-DataFlex
-Datalog
-DATATRIEVE
-dBase
-dc
-DCL (DIGITAL Command Language)
-Delphi
-DinkC
-DIBOL
-Dog
-Draco
-DRAKON
-Dylan
-DYNAMO
-DAX (Data Analysis Expressions)
-E
-Ease
-Easy PL/I
-EASYTRIEVE PLUS
-eC
-ECMAScript
-Edinburgh IMP
-EGL
-Eiffel
-ELAN
-Elixir
-Elm
-Emacs Lisp
-Emerald
-Epigram
-EPL (Easy Programming Language)
-EPL (Eltron Programming Language)
-Erlang
-es
-Escher
-ESPOL
-Esterel
-Etoys
-Euclid
-Euler
-Euphoria
-EusLisp Robot Programming Language
-CMS EXEC
-EXEC 2
-Executable UML
-Ezhil
-F
-F# (F sharp)
-F*
-Factor
-Fantom
-FAUST
-FFP
-fish
-Fjölnir
-FL
-Flavors
-Flex
-Flix
-FlooP
-FLOW-MASTIC (B0)
-FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)
-FOCUS
-FOIL
-FORMAC (FORMula MAnipulation Compiler)
-@Formula
-Forth
-Fortran
-Fortress
-FP
-Franz Lisp
-Futhark
-F-Script
-Game Maker Language
-GameMonkey Script
-GAMS (General Algebraic Modeling System)
-GAP
-G-code
-GDScript (Godot)
-Genie
-GDL (Geometric Description Language)
-GEORGE
-GLSL (OpenGL Shading Language)
-GNU E
-GNU Guile (GNU Ubiquitous Intelligent Language for Extensions)
-Go
-Go!
-GOAL (Game Oriented Assembly Lisp)
-Gödel
-Golo
-GOM (Good Old Mad)
-Google Apps Script
-Gosu
-GOTRAN (IBM 1620)
-GPSS (General Purpose Simulation System)
-GraphTalk (Computer Sciences Corporation)
-GRASS
-Grasshopper
-Groovy (programming language)|Groovy (Apache Groovy)
-Hack
-HAGGIS
-HAL/S
-Halide (programming language)
-Hamilton C shell
-Harbour
-Hartmann pipelines
-Haskell
-Haxe
-Hermes
-High Level Assembly (HLA)
-HLSL
-Hollywood
-HolyC (TempleOS)
-Hop
-Hopscotch
-Hope
-Hugo (Interactive Fiction/IF)
-Hume
-HyperTalk
-Io
-Icon
-IBM Basic assembly language
-IBM HAScript
-IBM Informix-4GL
-IBM RPG
-IDL
-Idris
-Inform
-J
-J# (J sharp)
-J++ (J plus plus)
-JADE
-Jai
-JAL
-Janus (concurrent constraint programming language)
-Janus (time-reversible computing programming language)
-JASS
-Java
-JavaFX Script
-JavaScript
-Jess (programming language)
-JCL
-JEAN
-Join Java
-JOSS
-Joule
-JOVIAL
-Joy
-JScript
-JScript .NET
-Julia
-Jython
-K
-Kaleidoscope
-Karel
-KEE
-Kixtart
-Klerer-May System
-KIF (Knowledge Interchange Format)
-Kojo
-Kotlin
-KRC
-KRL
-KUKA Robot Language
-KRYPTON
-KornShell (ksh)
-Kodu
-Kv (Kivy)
-LabVIEW
-Ladder
-LANSA
-Lasso
-Lava
-LC-3
-Lean
-Legoscript
-LIL
-LilyPond
-Limbo
-Limnor
-LINC
-Lingo
-LINQ
-LIS
-LISA
-Language H
-Lisp
-Lite-C
-Lithe
-Little b
-LLL
-Logo
-Logtalk
-LotusScript
-LPC
-LSE
-LSL
-LiveCode
-LiveScript
-Lua
-Lucid
-Lustre
-LYaPAS
-Lynx
-M2001
-M4
-M#
-Machine code
-MAD
-MAD/I
-Magik
-Magma
-Máni
-Maple
-MAPPER
-MARK-IV
-Mary
-MATLAB
-MASM Microsoft Assembly x86
-MATH-MATIC
-Maude system
-Maxima
-Max
-MaxScript
-Maya (MEL)
-MDL
-Mercury
-Mesa
-MHEG-5 (Interactive TV programming language)
-Microcode
-MicroScript
-Microsoft Power Fx
-MIIS
-Milk (programming language)
-MIMIC
-Mirah
-Miranda
-MIVA Script
-ML
-Model 204
-Modelica
-Modula
-Modula-2
-Modula-3
-Mohol
-MOO
-Mortran
-Mouse
-MPD
-MSL
-MUMPS
-MuPAD
-Mutan
-Mystic Programming Language
-NASM
-Napier88
-Neko
-Nemerle
-NESL
-Net.Data
-NetLogo
-NetRexx
-NewLISP
-NEWP
-Newspeak
-NewtonScript
-Nial
-Nickle
-Nim
-Nix (Systems configuration language)
-NPL
-Not eXactly C
-Not Quite C
-NSIS
-Nu
-NWScript
-NXT-G
-o:XML
-Oak
-Oberon
-OBJ2
-Object Lisp
-ObjectLOGO
-Object REXX
-Object Pascal
-Objective-C
-Objective-J
-Obliq
-OCaml
-occam
-occam-π
-Octave
-OmniMark
-Opa
-Opal
-OpenCL
-OpenEdge ABL
-OPL
-OpenVera
-OPS5
-OptimJ
-Orc
-ORCA/Modula-2
-Oriel
-Orwell
-Oxygene
-Oz
-P
-P4
-P′′
-ParaSail (programming language)
-PARI/GP
-Pascal
-Pascal Script
-PCASTL
-PCF
-PEARL
-PeopleCode
-Perl
-PDL
-Pharo
-PHP
-Pico
-Picolisp
-Pict
-Pike
-PILOT
-Pipelines
-Pizza
-PL-11
-PL/0
-PL/B
-PL/C
-PL/I
-PL/M
-PL/P
-PL/SQL
-PL360
-PLANC
-Plankalkül
-Planner
-PLEX
-PLEXIL
-Plus
-POP-11
-POP-2
-PostScript
-PortablE
-POV-Ray SDL
-Powerhouse
-PowerBuilder
-PowerShell
-PPL
-Processing
-Processing.js
-Prograph
-PROIV
-Project Verona
-Prolog
-PROMAL
-Promela
-PROSE modeling language
-PROTEL
-ProvideX
-Pro*C
-Pure
-Pure Data
-PureScript
-Python
-Q (programming language from Kx Systems)
-Q# (Microsoft programming language)
-Qalb
-Quantum Computation Language
-QtScript
-QuakeC
-QPL
-.QL
-R
-R++
-Racket
-Raku
-RAPID
-Rapira
-Ratfiv
-Ratfor
-RemObjects Mercury
-rc
-Reason
-REBOL
-Red
-Redcode
-REFAL
-REXX
-Rlab
-ROOP
-RPG
-RPL
-RSL
-RTL/2
-Ruby
-Rust
-S
-S2
-S3
-S-Lang
-S-PLUS
-SA-C
-SabreTalk
-SAIL
-SAS
-SASL
-Sather
-Sawzall
-Scala
-Scheme
-Scilab
-Scratch
-Script.NET
-Sed
-Seed7
-Self
-SenseTalk
-SequenceL
-Serpent
-SETL
-SIMPOL
-SIGNAL
-SiMPLE
-SIMSCRIPT
-Simula
-Simulink
-Singularity
-SISAL
-SLIP
-SMALL
-Smalltalk
-SML
-Strongtalk
-Snap!
-SNOBOL
-Snowball
-SOL
-Solidity
-SOPHAEROS
-Source
-SPARK
-Speakeasy
-Speedcode
-SPIN
-SP/k
-SPS
-SQL
-SQR
-Squeak
-Squirrel
-SR
-S/SL
-Starlogo
-Strand
-Stata
-Stateflow
-Subtext
-SBL
-SuperCollider
-SuperTalk
-Swift (Apple programming language)
-Swift (parallel scripting language)
-SYMPL
-SystemVerilog
-T
-TACL
-TACPOL
-TADS (Text Adventure Development System)
-TAL
-Tcl
-Tea
-TECO (text Editor and Corrector)
-TELCOMP
-TeX
-TEX (Text Executive Programming Language)
-TIE
-TMG (TransMo Griffer)
-Tom
-Toi
-Topspeed (Clarion)
-TPU (text Processing Utility)
-Trac
-TTM
-T-SQL (Transact-SQL)
-Transcript (LiveCode)
-TTCN (Tree and Tabular Combined Notation)
-Turing
-TUTOR (PLATO Author Language)
-TXL
-TypeScript
-Tynker
-Ubercode
-UCSD Pascal
-Umple
-Unicon
-Uniface
-UNITY
-Unix shell
-UnrealScript
-Vala
-Verilog
-VHDL
-Vim script
-Viper (Ethereum/Ether (ETH))
-Visual DataFlex
-Visual DialogScript
-Visual FoxPro
-Visual J++ (Visual J plus plus)
-Visual LISP
-Visual Objects
-Visual Prolog
-WATFIV, WATFOR (WATerloo FORtran IV)
-WebAssembly
-WebDNA
-Whiley
-Winbatch
-Wolfram Language
-Wyvern
-X++ (X plus plus/Microsoft Dynamics AX)
-X10
-xBase
-xBase++ (xBase plus plus)
-XBL
-XC
-xHarbour
-XL
-Xojo
-XOTcl
-Xod
-XPL
-XPL0
-XQuery
-XSB
-XSharp (X#)
-XSLT
-Xtend
-Yorick
-YQL
-Yoix
-YUI
-Z notation
-Zebra, ZPL, ZPL2
-Zeno
-ZetaLisp
-Zig
-ZOPL
-ZPL
-Z++
+1 - A.NET (A#/A sharp)
+2 - A-0 System
+3 - A+ (A (plus)
+4 - ABAP
+5 - ABC
+6 - ABC ALGOL
+7 - ACC
+8 - Accent (Rational Synergy)
+9 - Ace DASL (Distributed Application Specification Language)
+10 - Action!
+11 - ActionScript
+12 - Actor
+13 - Ada
+14 - Adenine (Haystack)
+15 - AdvPL
+16 - Agda
+17 - Agilent VEE (Keysight VEE)
+18 - Agora
+19 - AIMMS
+20 - Aldor
+21 - Alef
+22 - ALF
+23 - ALGOL 58
+24 - ALGOL 60
+25 - ALGOL 68
+26 - ALGOL W
+27 - Alice (Alice ML)
+28 - Alma-0
+29 - AmbientTalk
+30 - Amiga E
+31 - AMOS (AMOS BASIC)
+32 - AMPL
+33 - AngelScript
+34 - Apache Pig latin
+35 - Apex (Salesforce.com, Inc)
+36 - APL
+37 - App Inventor for Android's visual block language (MIT App Inventor)
+38 - AppleScript
+39 - APT
+40 - Arc
+41 - ARexx
+42 - Argus
+43 - Assembly language (ASM)
+44 - AutoIt
+45 - AutoLISP / Visual LISP
+46 - Averest
+47 - AWK
+48 - Axum
+49 - B
+50 - Babbage
+51 - Ballerina
+52 - Bash
+53 - BASIC
+54 - Batch file (Windows/MS-DOS)
+55 - bc (basic calculator)
+56 - BCPL
+57 - BeanShell
+58 - Bertrand
+59 - BETA
+60 - BLISS
+61 - Blockly
+62 - BlooP
+63 - Boo
+64 - Boomerang
+65 - Bosque
+66 - C
+67 - C--
+68 - C++
+69 - C*
+70 - C#
+71 - C/AL
+72 - Caché ObjectScript
+73 - C Shell (csh)
+74 - Caml
+75 - Cayenne (Lennart Augustsson)
+76 - CDuce
+77 - Cecil
+78 - Cesil (Computer Education in Schools Instruction Language)
+79 - Céu
+80 - Ceylon
+81 - CFEngine
+82 - Cg (High-Level Shader/Shading Language [HLSL])
+83 - Ch
+84 - Chapel (Cascade High Productivity Language)
+85 - Charm
+86 - CHILL
+87 - CHIP-8
+88 - ChucK
+89 - Cilk (also Cilk++ and Cilk plus)
+90 - Control Language
+91 - Claire
+92 - Clarion
+93 - Clean
+94 - Clipper
+95 - CLIPS
+96 - CLIST
+97 - Clojure
+98 - CLU
+99 - CMS-2
+100 - COBOL
+101 - CobolScript
+102 - Cobra
+103 - CoffeeScript
+104 - ColdFusion
+105 - COMAL
+106 - Combined Programming Language
+107 - COMIT
+108 - Common Intermediate Language
+109 - Common Lisp
+110 - COMPASS
+111 - Component Pascal
+112 - Constraint Handling Rules
+113 - COMTRAN
+114 - Cool
+115 - Coq
+116 - Coral 66
+117 - CorVision
+118 - COWSEL
+119 - CPL
+120 - Cryptol
+121 - Crystal
+122 - Csound
+123 - Cuneiform
+124 - Curl
+125 - Curry
+126 - Cybil
+127 - Cyclone
+128 - Cypher Query Language
+129 - Cython
+130 - CEEMAC
+131 - D
+132 - Dart
+133 - Darwin
+134 - DataFlex
+135 - Datalog
+136 - DATATRIEVE
+137 - dBase
+138 - dc
+139 - DCL (DIGITAL Command Language)
+140 - Delphi
+141 - DinkC
+142 - DIBOL
+143 - Dog
+144 - Draco
+145 - DRAKON
+146 - Dylan
+147 - DYNAMO
+148 - DAX (Data Analysis Expressions)
+149 - E
+150 - Ease
+151 - Easy PL/I
+152 - EASYTRIEVE PLUS
+153 - eC
+154 - ECMAScript
+155 - Edinburgh IMP
+156 - EGL
+157 - Eiffel
+158 - ELAN
+159 - Elixir
+160 - Elm
+161 - Emacs Lisp
+162 - Emerald
+163 - Epigram
+164 - EPL (Easy Programming Language)
+165 - EPL (Eltron Programming Language)
+166 - Erlang
+167 - es
+168 - Escher
+169 - ESPOL
+170 - Esterel
+171 - Etoys
+172 - Euclid
+173 - Euler
+174 - Euphoria
+175 - EusLisp Robot Programming Language
+176 - CMS EXEC
+177 - EXEC 2
+178 - Executable UML
+179 - Ezhil
+180 - F
+181 - F# (F sharp)
+182 - F*
+183 - Factor
+184 - Fantom
+185 - FAUST
+186 - FFP
+187 - fish
+188 - Fjölnir
+189 - FL
+190 - Flavors
+191 - Flex
+192 - Flix
+193 - FlooP
+194 - FLOW-MASTIC (B0)
+195 - FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)
+196 - FOCUS
+197 - FOIL
+198 - FORMAC (FORMula MAnipulation Compiler)
+199 - @Formula
+200 - Forth
+201 - Fortran
+202 - Fortress
+203 - FP
+204 - Franz Lisp
+205 - Futhark
+206 - F-Script
+207 - Game Maker Language
+208 - GameMonkey Script
+209 - GAMS (General Algebraic Modeling System)
+210 - GAP
+211 - G-code
+212 - GDScript (Godot)
+213 - Genie
+214 - GDL (Geometric Description Language)
+215 - GEORGE
+216 - GLSL (OpenGL Shading Language)
+217 - GNU E
+218 - GNU Guile (GNU Ubiquitous Intelligent Language for Extensions)
+219 - Go
+220 - Go!
+221 - GOAL (Game Oriented Assembly Lisp)
+222 - Gödel
+223 - Golo
+224 - GOM (Good Old Mad)
+225 - Google Apps Script
+226 - Gosu
+227 - GOTRAN (IBM 1620)
+228 - GPSS (General Purpose Simulation System)
+229 - GraphTalk (Computer Sciences Corporation)
+230 - GRASS
+231 - Grasshopper
+232 - Groovy (programming language)|Groovy (Apache Groovy)
+233 - Hack
+234 - HAGGIS
+235 - HAL/S
+236 - Halide (programming language)
+237 - Hamilton C shell
+238 - Harbour
+239 - Hartmann pipelines
+240 - Haskell
+241 - Haxe
+242 - Hermes
+243 - High Level Assembly (HLA)
+244 - HLSL
+245 - Hollywood
+246 - HolyC (TempleOS)
+247 - Hop
+248 - Hopscotch
+249 - Hope
+250 - Hugo (Interactive Fiction/IF)
+251 - Hume
+252 - HyperTalk
+253 - Io
+254 - Icon
+255 - IBM Basic assembly language
+256 - IBM HAScript
+257 - IBM Informix-4GL
+258 - IBM RPG
+259 - IDL
+260 - Idris
+261 - Inform
+262 - J
+263 - J# (J sharp)
+264 - J++ (J plus plus)
+265 - JADE
+266 - Jai
+267 - JAL
+268 - Janus (concurrent constraint programming language)
+269 - Janus (time-reversible computing programming language)
+270 - JASS
+271 - Java
+272 - JavaFX Script
+273 - JavaScript
+274 - Jess (programming language)
+275 - JCL
+276 - JEAN
+277 - Join Java
+278 - JOSS
+279 - Joule
+280 - JOVIAL
+281 - Joy
+282 - JScript
+283 - JScript .NET
+284 - Julia
+285 - Jython
+286 - K
+287 - Kaleidoscope
+288 - Karel
+289 - KEE
+290 - Kixtart
+291 - Klerer-May System
+292 - KIF (Knowledge Interchange Format)
+293 - Kojo
+294 - Kotlin
+295 - KRC
+296 - KRL
+297 - KUKA Robot Language
+298 - KRYPTON
+299 - KornShell (ksh)
+300 - Kodu
+301 - Kv (Kivy)
+302 - LabVIEW
+303 - Ladder
+304 - LANSA
+305 - Lasso
+306 - Lava
+307 - LC-3
+308 - Lean
+309 - Legoscript
+310 - LIL
+311 - LilyPond
+312 - Limbo
+313 - Limnor
+314 - LINC
+315 - Lingo
+316 - LINQ
+317 - LIS
+318 - LISA
+319 - Language H
+320 - Lisp
+321 - Lite-C
+322 - Lithe
+323 - Little b
+324 - LLL
+325 - Logo
+326 - Logtalk
+327 - LotusScript
+328 - LPC
+329 - LSE
+330 - LSL
+331 - LiveCode
+332 - LiveScript
+333 - Lua
+334 - Lucid
+335 - Lustre
+336 - LYaPAS
+337 - Lynx
+338 - M2001
+339 - M4
+340 - M#
+341 - Machine code
+342 - MAD
+343 - MAD/I
+344 - Magik
+345 - Magma
+346 - Máni
+347 - Maple
+348 - MAPPER
+349 - MARK-IV
+350 - Mary
+351 - MATLAB
+352 - MASM Microsoft Assembly x86
+353 - MATH-MATIC
+354 - Maude system
+355 - Maxima
+356 - Max
+357 - MaxScript
+358 - Maya (MEL)
+359 - MDL
+360 - Mercury
+361 - Mesa
+362 - MHEG-5 (Interactive TV programming language)
+363 - Microcode
+364 - MicroScript
+365 - Microsoft Power Fx
+366 - MIIS
+367 - Milk (programming language)
+368 - MIMIC
+369 - Mirah
+370 - Miranda
+371 - MIVA Script
+372 - ML
+373 - Model 204
+374 - Modelica
+375 - Modula
+376 - Modula-2
+377 - Modula-3
+378 - Mohol
+379 - MOO
+380 - Mortran
+381 - Mouse
+382 - MPD
+383 - MSL
+384 - MUMPS
+385 - MuPAD
+386 - Mutan
+387 - Mystic Programming Language
+388 - NASM
+389 - Napier88
+390 - Neko
+391 - Nemerle
+392 - NESL
+393 - Net.Data
+394 - NetLogo
+395 - NetRexx
+396 - NewLISP
+397 - NEWP
+398 - Newspeak
+399 - NewtonScript
+400 - Nial
+401 - Nickle
+402 - Nim
+403 - Nix (Systems configuration language)
+404 - NPL
+405 - Not eXactly C
+406 - Not Quite C
+407 - NSIS
+408 - Nu
+409 - NWScript
+410 - NXT-G
+411 - o:XML
+412 - Oak
+413 - Oberon
+414 - OBJ2
+415 - Object Lisp
+416 - ObjectLOGO
+417 - Object REXX
+418 - Object Pascal
+419 - Objective-C
+420 - Objective-J
+421 - Obliq
+422 - OCaml
+423 - occam
+424 - occam-π
+425 - Octave
+426 - OmniMark
+427 - Opa
+428 - Opal
+429 - OpenCL
+430 - OpenEdge ABL
+431 - OPL
+432 - OpenVera
+433 - OPS5
+434 - OptimJ
+435 - Orc
+436 - ORCA/Modula-2
+437 - Oriel
+438 - Orwell
+439 - Oxygene
+440 - Oz
+441 - P
+442 - P4
+443 - P′′
+444 - ParaSail (programming language)
+445 - PARI/GP
+446 - Pascal
+447 - Pascal Script
+448 - PCASTL
+449 - PCF
+450 - PEARL
+451 - PeopleCode
+452 - Perl
+453 - PDL
+454 - Pharo
+455 - PHP
+456 - Pico
+457 - Picolisp
+458 - Pict
+459 - Pike
+460 - PILOT
+461 - Pipelines
+462 - Pizza
+463 - PL-11
+464 - PL/0
+465 - PL/B
+466 - PL/C
+467 - PL/I
+468 - PL/M
+469 - PL/P
+470 - PL/SQL
+471 - PL360
+472 - PLANC
+473 - Plankalkül
+474 - Planner
+475 - PLEX
+476 - PLEXIL
+477 - Plus
+478 - POP-11
+479 - POP-2
+480 - PostScript
+481 - PortablE
+482 - POV-Ray SDL
+483 - Powerhouse
+484 - PowerBuilder
+485 - PowerShell
+486 - PPL
+487 - Processing
+488 - Processing.js
+489 - Prograph
+490 - PROIV
+491 - Project Verona
+492 - Prolog
+493 - PROMAL
+494 - Promela
+495 - PROSE modeling language
+496 - PROTEL
+497 - ProvideX
+498 - Pro*C
+499 - Pure
+500 - Pure Data
+501 - PureScript
+502 - Python
+503 - Q (programming language from Kx Systems)
+504 - Q# (Microsoft programming language)
+505 - Qalb
+506 - Quantum Computation Language
+507 - QtScript
+508 - QuakeC
+509 - QPL
+510 - .QL
+511 - R
+512 - R++
+513 - Racket
+514 - Raku
+515 - RAPID
+516 - Rapira
+517 - Ratfiv
+518 - Ratfor
+519 - RemObjects Mercury
+520 - rc
+521 - Reason
+522 - REBOL
+523 - Red
+524 - Redcode
+525 - REFAL
+526 - REXX
+527 - Rlab
+528 - ROOP
+529 - RPG
+530 - RPL
+531 - RSL
+532 - RTL/2
+533 - Ruby
+534 - Rust
+535 - S
+536 - S2
+537 - S3
+538 - S-Lang
+539 - S-PLUS
+540 - SA-C
+541 - SabreTalk
+542 - SAIL
+543 - SAS
+544 - SASL
+545 - Sather
+546 - Sawzall
+547 - Scala
+548 - Scheme
+549 - Scilab
+550 - Scratch
+551 - Script.NET
+552 - Sed
+553 - Seed7
+554 - Self
+555 - SenseTalk
+556 - SequenceL
+557 - Serpent
+558 - SETL
+559 - SIMPOL
+560 - SIGNAL
+561 - SiMPLE
+562 - SIMSCRIPT
+563 - Simula
+564 - Simulink
+565 - Singularity
+566 - SISAL
+567 - SLIP
+568 - SMALL
+569 - Smalltalk
+570 - SML
+571 - Strongtalk
+572 - Snap!
+573 - SNOBOL
+574 - Snowball
+575 - SOL
+576 - Solidity
+577 - SOPHAEROS
+578 - Source
+579 - SPARK
+580 - Speakeasy
+581 - Speedcode
+582 - SPIN
+583 - SP/k
+584 - SPS
+585 - SQL
+586 - SQR
+587 - Squeak
+588 - Squirrel
+589 - SR
+590 - S/SL
+591 - Starlogo
+592 - Strand
+593 - Stata
+594 - Stateflow
+595 - Subtext
+596 - SBL
+597 - SuperCollider
+598 - SuperTalk
+599 - Swift (Apple programming language)
+600 - Swift (parallel scripting language)
+601 - SYMPL
+602 - SystemVerilog
+603 - T
+604 - TACL
+605 - TACPOL
+606 - TADS (Text Adventure Development System)
+607 - TAL
+608 - Tcl
+609 - Tea
+610 - TECO (text Editor and Corrector)
+611 - TELCOMP
+612 - TeX
+613 - TEX (Text Executive Programming Language)
+614 - TIE
+615 - TMG (TransMo Griffer)
+616 - Tom
+617 - Toi
+618 - Topspeed (Clarion)
+619 - TPU (text Processing Utility)
+620 - Trac
+621 - TTM
+622 - T-SQL (Transact-SQL)
+623 - Transcript (LiveCode)
+624 - TTCN (Tree and Tabular Combined Notation)
+625 - Turing
+626 - TUTOR (PLATO Author Language)
+627 - TXL
+628 - TypeScript
+629 - Tynker
+630 - Ubercode
+631 - UCSD Pascal
+632 - Umple
+633 - Unicon
+634 - Uniface
+635 - UNITY
+636 - Unix shell
+637 - UnrealScript
+638 - Vala
+639 - Verilog
+640 - VHDL
+641 - Vim script
+642 - Viper (Ethereum/Ether (ETH))
+643 - Visual DataFlex
+644 - Visual DialogScript
+645 - Visual FoxPro
+646 - Visual J++ (Visual J plus plus)
+647 - Visual LISP
+648 - Visual Objects
+649 - Visual Prolog
+650 - WATFIV, WATFOR (WATerloo FORtran IV)
+651 - WebAssembly
+652 - WebDNA
+653 - Whiley
+654 - Winbatch
+655 - Wolfram Language
+656 - Wyvern
+657 - X++ (X plus plus/Microsoft Dynamics AX)
+658 - X10
+659 - xBase
+660 - xBase++ (xBase plus plus)
+661 - XBL
+662 - XC
+663 - xHarbour
+664 - XL
+665 - Xojo
+666 - XOTcl
+667 - Xod
+668 - XPL
+669 - XPL0
+670 - XQuery
+671 - XSB
+672 - XSharp (X#)
+673 - XSLT
+674 - Xtend
+675 - Yorick
+676 - YQL
+677 - Yoix
+678 - YUI
+679 - Z notation
+680 - Zebra, ZPL, ZPL2
+681 - Zeno
+682 - ZetaLisp
+683 - Zig
+684 - ZOPL
+685 - ZPL
+686 - Z++
